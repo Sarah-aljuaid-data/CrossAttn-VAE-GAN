@@ -47,8 +47,7 @@ The proposed model achieved strong performance across multiple benchmarks and de
 
 ### Author
 
-Sara Aljuaid
-
+Sara Aljuaid and Ohood Althobaiti (IEEE member)
 ### Citation
 
 If you use this repository, please cite the corresponding thesis or publication.
